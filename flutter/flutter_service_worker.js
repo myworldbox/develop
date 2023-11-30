@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "e4463cb0e84a124da5acea11e068f6cb",
+"assets/AssetManifest.bin.json": "c9f6de874eb88de661f0ea1e9be686ba",
+"assets/AssetManifest.json": "5f10e5d37601f0a9da081fd1b82939e0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "65e21b5db78a7c132bbb04776ec9c399",
+"assets/fonts/MaterialIcons-Regular.otf": "59497e7ba2984860c7c6cacc193c7091",
+"assets/lib/json/config.json": "4b6506065da0946c416f5b500520853a",
+"assets/lib/json/request.json": "3163619823616b0653e690f05066a6f1",
 "assets/NOTICES": "d04822a72a3d5465360b305c187f199d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
@@ -24,9 +26,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "172c0f46247af32cb5d42e194590e861",
-"/": "172c0f46247af32cb5d42e194590e861",
-"main.dart.js": "159284c1501fb81e5205a10a51f4ff69",
+"index.html": "66a90c02e123dedb2cbc269a637411fd",
+"/": "66a90c02e123dedb2cbc269a637411fd",
+"main.dart.js": "9ed85c4f810c3ebd0027907f036da226",
 "manifest.json": "ba5c7f54abd807b20aa52b239bb3adb5",
 "version.json": "9692e6a2dac4ad01af0fd4a3db0756bd"};
 // The application shell files that are downloaded before a service worker can
