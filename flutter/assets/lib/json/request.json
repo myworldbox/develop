@@ -2,7 +2,6 @@
 	"service": {
 	  "provider": "",
 	  "action": "",
-	  "password": "2020myworldbox2020",
 	  "crypto": {
 		"name": "aria-128-cfb8",
 		"type": "encrypt"
@@ -15,74 +14,5 @@
 	  ],
 	  "node": "database.collection.node"
 	},
-	"data": {},
-	"key": {
-	  "mysql": {
-		"host": "localhost",
-		"user": "root",
-		"password": "2020myworldbox2020",
-		"database": "mytestbox"
-	  },
-	  "firebase": {
-		"apiKey": "AIzaSyBfWn-GrC5qtJIp44oyO2qFwVMxmcEOkPU",
-		"authDomain": "vlblockchain.firebaseapp.com",
-		"databaseURL": "https://vlblockchain-default-rtdb.firebaseio.com",
-		"projectId": "vlblockchain",
-		"storageBucket": "vlblockchain.appspot.com",
-		"messagingSenderId": "894753325454",
-		"appId": "1:894753325454:web:50a6218c112c381db1e4df",
-		"measurementId": "G-CR75KHHTR0"
-	  },
-	  "postgre_sql": {
-		"user": "mychessbox_user",
-		"host": "dpg-cgrtv29mbg5e4kim5aa0-a.oregon-postgres.render.com",
-		"database": "mychessbox",
-		"password": "WTmdxXpBITyRzB2qtkdcPGDRYQj2ZEsq"
-	  },
-	  "google": {
-		"type": "service_account",
-		"project_id": "myapibox-384517",
-		"private_key_id": "355de443d7640332eb6342aa1aa5f375655dc2fd",
-		"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCSNjz+f8NNA6j\nSaS47l8vqRRJNCic8dQ7skD7xfgltsy/BeAJUCb1AM376g3AM8dzVyAlwbm7rGjO\nGlsS31U4eBbBo9BJ5tAuxNxCjkGdXxH+OGZVJOo28xA/CAsIWrf46OBVt76qHWiu\n3qATL95jseryfC0B0wUFHcxH2OFOu6jVXai4kfbeIz1Ui3bLSn7nbXb1Q8YjXZ3v\nJAkh21FPaYJzTulDCPbCr8+0FZO038f6kQAURb07XINP9uWzOK+FNu/sJcuFrvId\nqjDShSYYam3lhHMsuqvZxtxh19QhOji0oAR/3MA0J0nxjrG+9/0VqxVwFj+4958K\ndT9JM/fvAgMBAAECggEAQSvumujhhaxQvLWXa/GKPJKbG3NDrGHyr5O7+LkP5JbN\nV8bAwF8Csmzyq+53bmHwJeC0B/ZUN4A+J+TvaAVCsQ6Xk50/4Ypri0S+HhVaLVAW\n2RBSQ31+k7A1Yu9vw/2qePSlTBu2+Zmj5AUJ7WXBU+/6wBynfFUs+epk/DTkX2Q9\n2RMfWewVsppgwWmjeedZRWGPwq/BzRI+rJeR/hSf8MGOwi436EqP7W6oimNQInO0\ndCBO5DLEz4m6y+QZcVO1Yk6EC/o4uKXi57IOEBLm5WDVqy2MkXALUiSThMwMuSTj\nRdD5GBJ7AQ54PvubVQmXFuLcK/kuHmH2ldxdySyfAQKBgQDv5YjwVa4P5LDVSxqP\nHV0GaFvz6CPQxkUfrHCxd8J+KBW+Oew90ZIDU2F97TNwdiH8OSrYvzqnUvjZnCE+\ngijJDzTaxWN+o0BT+NBsyIIOUCyQO+EDDKZiOc2aM9y/LhFGU2IjuAAzU5aO2cpE\nFT9H9EoZZM6rZNJ2ZbZdaBrGhQKBgQDPU3/ZBrdgd/SaZD4rdSk92DAxxHd5r5ZO\nk60GLY9YfoGbMNmb5zA9rquYSSrdfsoy4lJebf2Q2a/uwsC5M4R07HXl5BPaRBQe\ni3Qn4WI4SpLiXfTEuaToV39XT4Xe23qYc0PaVzDqjbrqoif87vlnnejGNkGvoRff\nVGiTMFkw4wKBgGtdjGsbvZpJXMcpJMrWdnLOtBC2XYkro3YohAs5MSerIwgO/mcw\nayvn3mMwjOwRQuaSY1W8SDDo1oz17n7+W+iYUKx02TGtOLYcTpPRLTvgsAEhe3QU\n7kZZ3mXcPjimEn8qBGs+B4DxMRnf6UGNTNQURjGVR1W3+uWYYgTt+cXNAoGAC6kg\nma49Bhn5Ee3taThPt4C/RS1NovRzObwokR5i35FN7NKUiqY4GmAGmqwS0x5cdPwx\nscnx5wG3WXBusnvpSUI7Z1CqpS4LC6TARbXxdkULedva9m2SjtbM/LYmS2CAxq5E\n9LTOtYJ/Ls8r/JfcQy2od+15SE2BMDhpIU4o1g0CgYEAhzrPY7JpjnLhAs6oGflc\nmtFy44rCgXWlLbhMOVd7zlQuijRltCLF85H8ivcHG50ut3dqXdhTALqzSzrg2+v8\nlUFmqutby8aGzRDmMantRILgPB7E9e1nX26A9a4IgwFhHtpcqeV9I/X4F6JxCVvA\nYxrHxl5gd6I+RKxhuI6FjfQ=\n-----END PRIVATE KEY-----\n",
-		"client_email": "myapibox@myapibox-384517.iam.gserviceaccount.com",
-		"client_id": "110818597170097561948",
-		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
-		"token_uri": "https://oauth2.googleapis.com/token",
-		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-		"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myapibox%40myapibox-384517.iam.gserviceaccount.com"
-	  },
-	  "mongodb": {
-		"url": "mongodb+srv://myworldbox:2020myworldbox2020@cluster0.hy5amt8.mongodb.net/test"
-	  },
-	  "redis": {
-		"url": "redis://default:5JEH6rfko2r3TXd2TOYG4WqKvTGwkXVs@redis-18435.c57.us-east-1-4.ec2.cloud.redislabs.com:18435"
-	  }
-	},
-	"crypto": {
-	  "key": {
-		"public": {
-		  "value": "public",
-		  "length": 32
-		},
-		"private": {
-		  "value": "private",
-		  "length": 16
-		}
-	  },
-	  "salt": {
-		"value": "salt",
-		"length": 16
-	  },
-	  "iv": {
-		"value": "iv",
-		"length": 16
-	  },
-	  "limit": 5,
-	  "option": {
-		"N": 16384,
-		"r": 8,
-		"p": 1,
-		"maxmem": 33554432
-	  }
-	}
+	"data": {}
   }

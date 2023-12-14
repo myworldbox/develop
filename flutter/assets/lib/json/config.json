@@ -30,5 +30,8 @@
     "theme": {
         "dark": "#010048",
         "light": "#a69d6f"
+    },
+    "url": {
+        "generic_backend": "https://myapibox.vercel.app"
     }
 }
