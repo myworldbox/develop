@@ -3,16 +3,16 @@
 	  "provider": "",
 	  "action": "",
 	  "crypto": {
-		"name": "aria-128-cfb8",
-		"type": "encrypt"
+		"name": "",
+		"type": ""
 	  },
 	  "hash": [
-		"password"
+		""
 	  ],
 	  "validation": [
-		"email"
+		""
 	  ],
-	  "node": "database.collection.node"
+	  "node": ""
 	},
 	"data": {}
   }
