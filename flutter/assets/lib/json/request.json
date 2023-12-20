@@ -1,18 +1,9 @@
 {
 	"service": {
-	  "provider": "",
-	  "action": "",
-	  "crypto": {
-		"name": "",
-		"type": ""
-	  },
-	  "hash": [
-		""
-	  ],
-	  "validation": [
-		""
-	  ],
-	  "node": ""
+		"provider": "",
+		"action": "",
+		"validation": [],
+		"node": ""
 	},
 	"data": {}
-  }
+}

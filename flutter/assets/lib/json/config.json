@@ -2,7 +2,7 @@
     "project": {
         "name": "flutter template",
         "title": "flutter_template",
-        "description" : "A Generic Dart-based Flutter Template"
+        "description": "A Generic Dart-based Flutter Template"
     },
     "preload": {
         "json": [
