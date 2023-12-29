@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e4463cb0e84a124da5acea11e068f6cb",
-"assets/AssetManifest.bin.json": "c9f6de874eb88de661f0ea1e9be686ba",
-"assets/AssetManifest.json": "5f10e5d37601f0a9da081fd1b82939e0",
+const RESOURCES = {"assets/AssetManifest.bin": "50d8e83eabd3ec52b3142db1288377b6",
+"assets/AssetManifest.bin.json": "7ef218b58b24547e92d80bef2e61040a",
+"assets/AssetManifest.json": "7a14181b241989fdb94d59cdc9846ea4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "fbe540ec800bb738b037bea038158c71",
-"assets/lib/json/config.json": "b438179014ca5a60a85f12150cf42476",
+"assets/lib/json/color.json": "a3a3bf8507d9967b9173f14ed7518a54",
+"assets/lib/json/config.json": "1e388aadf4c521c9cb1c80cfab4dfe40",
 "assets/lib/json/request.json": "e400bc6e4b7d64291917ed42c7f882ed",
+"assets/lib/json/validation.json": "14ab450670ce5b7d2521a47d624f65ce",
 "assets/NOTICES": "d0909f3475d3a8e07bf2321cfbd424ca",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
@@ -26,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e4463cb0e84a124da5acea11e068f6cb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8f9f1b8659853e4e3a9f9c3987372748",
-"/": "8f9f1b8659853e4e3a9f9c3987372748",
-"main.dart.js": "073ea072ce5407ddb019e03ec404732c",
+"index.html": "3c0155d0b9028cddb2bbb5d6a18ee95b",
+"/": "3c0155d0b9028cddb2bbb5d6a18ee95b",
+"main.dart.js": "60066011d6b87c3e7a4869fa67740f04",
 "manifest.json": "ba5c7f54abd807b20aa52b239bb3adb5",
 "version.json": "9692e6a2dac4ad01af0fd4a3db0756bd"};
 // The application shell files that are downloaded before a service worker can

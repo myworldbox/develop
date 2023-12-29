@@ -6,14 +6,19 @@
     },
     "preload": {
         "json": [
-            "request"
+            "color",
+            "request",
+            "validation"
         ]
     },
-    "route": [
-        "index",
-        "privacy",
-        "console"
-    ],
+    "route": {
+        "current": "",
+        "all": [
+            "index",
+            "privacy",
+            "console"
+        ]
+    },
     "framework": {
         "ui": "tailwindcss"
     },
