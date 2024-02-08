@@ -1,6 +1,6 @@
 {
-    "route": null,
-    "theme": null,
-    "framework": null,
-    "locale": null
+  "route": null,
+  "theme": "dark",
+  "framework": null,
+  "locale": "en-us"
 }
