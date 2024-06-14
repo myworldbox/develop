@@ -1,0 +1,85 @@
+{
+  "dashboard": {
+    "label": "DAT",
+    "group": {
+      "user": {
+        "label": "用戶",
+        "login": "登入",
+        "logout": "登出"
+      },
+      "setting": "設置",
+      "system": {
+        "label": "系統",
+        "fms": {
+          "label": "財務管理系統",
+          "retrieveBalance": "获取余额",
+          "retrieveVoucherDetails": "檢索主數據",
+          "downloadSampleTemplate": "取得模板"
+        }
+      }
+    },
+    "alias": {
+      "shortcut": "快捷键"
+    },
+    "button": {
+      "confirm": "確認",
+      "cancel": "取消",
+      "select": "選擇",
+      "forward": ">",
+      "backward": "<",
+      "increment": "+",
+      "decrement": "-",
+      "paste": "啟動",
+      "export": "輸出"
+    },
+    "rangeBox": {
+      "inputRange": "輸入範圍",
+      "selectCell": "選擇儲存格",
+      "selectRange": "選擇範圍"
+    },
+    "loginForm": {
+      "label": "使用者登入",
+      "username": "用戶名",
+      "password": "密碼"
+    },
+    "settingForm": {
+      "label": "設定",
+      "lang": "語言",
+      "mode": "模式",
+      "env": "環境",
+      "scanningRange": "掃描範圍"
+    },
+    "filterLinqForm": {
+      "label": "篩選",
+      "requiredFields": "必填欄位"
+    },
+    "filterListForm": {
+      "label": "",
+      "outputSheet": "輸出工作表",
+      "outputColumn": "輸出列"
+    },
+    "formulaForm": {
+      "label": "單元函數",
+      "formula": "公式",
+      "range": "範圍",
+      "cellFunc": "單元函數",
+      "param": "參數",
+      "outputCell": "輸出格子",
+      "addDelRow": "新增 / 刪除 行列",
+      "page": "頁面"
+    },
+    "messageForm": {
+      "label": "訊息"
+    },
+    "message": {
+      "isLockedOut": "由於多次輸入錯誤的用戶名或密碼，您的帳戶已被鎖定。請在5小時後重試或聯繫客戶服務。",
+      "isNotAllowed": "您的帳戶存在問題，無法登錄。請與客戶服務聯繫，提供此消息（IsNotAllowed）。",
+      "requiresTwoFactor": "您的帳戶存在問題，無法登錄。請與客戶服務聯繫，提供此消息（RequiresTwoFactor）。",
+      "createFailed": "您的帳戶存在問題，無法登錄。請與客戶服務聯繫，提供此消息（CreateFail）。",
+      "updateFailed": "您的帳戶存在問題，無法登錄。請與客戶服務聯繫，提供此消息（UpdateFailed）。",
+      "noSuchUser": "用戶名或密碼錯誤！請重試。",
+      "wrongPassword": "用戶名或密碼錯誤！請重試。",
+      "succeeded": "登錄成功！"
+    }
+  }
+}
