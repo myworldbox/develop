@@ -47,7 +47,7 @@
       "lang": "語言",
       "mode": "模式",
       "env": "環境",
-      "scanningRange": "掃描範圍"
+      "version": "版本"
     },
     "filterLinqForm": {
       "label": "篩選",
