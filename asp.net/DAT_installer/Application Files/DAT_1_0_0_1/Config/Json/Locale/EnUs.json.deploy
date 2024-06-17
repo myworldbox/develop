@@ -1,0 +1,85 @@
+{
+  "dashboard": {
+    "label": "DAT",
+    "group": {
+      "user": {
+        "label": "user",
+        "login": "login",
+        "logout": "logout"
+      },
+      "setting": "settings",
+      "system": {
+        "label": "system",
+        "fms": {
+          "label": "fms",
+          "retrieveVoucherDetails": "retrieve voucher details",
+          "retrieveBalance": "retrieve balance",
+          "downloadSampleTemplate": "download sample template"
+        }
+      }
+    },
+    "alias": {
+      "shortcut": "shortcut"
+    },
+    "button": {
+      "confirm": "ok",
+      "cancel": "cancel",
+      "forward": ">",
+      "backward": "<",
+      "increment": "+",
+      "decrement": "-",
+      "paste": "paste",
+      "select": "select",
+      "export": "export"
+    },
+    "rangeBox": {
+      "inputRange": "input range",
+      "selectCell": "select cell",
+      "selectRange": "select range"
+    },
+    "loginForm": {
+      "label": "user login",
+      "username": "user name",
+      "password": "password"
+    },
+    "settingForm": {
+      "label": "settings",
+      "lang": "language",
+      "mode": "mode",
+      "env": "environment",
+      "version": "version"
+    },
+    "filterLinqForm": {
+      "label": "filter",
+      "requiredFields": "required Fields"
+    },
+    "filterListForm": {
+      "label": null,
+      "outputSheet": "output sheet",
+      "outputColumn": "output column"
+    },
+    "formulaForm": {
+      "label": "cell formula",
+      "formula": "formula",
+      "range": "range",
+      "cellFunc": "cell function",
+      "param": "parameter",
+      "outputCell": "output cell",
+      "addDelRow": "add / delete row",
+      "page": "page"
+    },
+    "messageForm": {
+      "label": "message"
+    },
+    "message": {
+      "isLockedOut": "Your account has been locked due to multiple incorrect username or password attempts. Please try again after 5 hours or contact customer service.",
+      "isNotAllowed": "Your account has individual issues that prevent login. Please contact customer service with this message (IsNotAllowed).",
+      "requiresTwoFactor": "Your account has individual issues that prevent login. Please contact customer service with this message (RequiresTwoFactor).",
+      "createFailed": "Your account has individual issues that prevent login. Please contact customer service with this message (CreateFail).",
+      "updateFailed": "Your account has individual issues that prevent login. Please contact customer service with this message (UpdateFailed).",
+      "noSuchUser": "Incorrect username or password entered! Please try again.",
+      "wrongPassword": "Incorrect username or password entered! Please try again.",
+      "succeeded": "Login successful!"
+    }
+  }
+}
