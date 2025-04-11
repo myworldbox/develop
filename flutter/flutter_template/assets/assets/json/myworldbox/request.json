@@ -1,0 +1,17 @@
+{
+	"operator": {
+		"provider": "",
+		"action": ""
+	},
+	"data": {},
+	"cache": {
+		"cache": {},
+		"node": "",
+		"target": [],
+		"text": ""
+	},
+	"format": {
+		"input": "utf8",
+		"output": "base64"
+	}
+}
