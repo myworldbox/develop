@@ -57,6 +57,7 @@
     "time": "时间",
     "location": "地点"
   },
+  "/test/param": {},
   "/scan/camera": {
     "scan_code": "扫描会员代码",
     "member_code": "会员代码"
