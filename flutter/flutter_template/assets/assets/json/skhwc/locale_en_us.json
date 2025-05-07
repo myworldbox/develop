@@ -57,6 +57,7 @@
     "time": "Time",
     "location": "Location"
   },
+  "/test/param": {},
   "/scan/camera": {
     "scan_code": "Scan member code",
     "member_code": "member code"

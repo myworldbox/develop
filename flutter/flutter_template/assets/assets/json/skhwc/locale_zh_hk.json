@@ -57,6 +57,7 @@
         "time": "時間",
         "location": "地點"
     },
+    "/test/param": {},
     "/scan/camera": {
         "scan_code": "掃描會員代碼",
         "member_code": "會員代碼"
