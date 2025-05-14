@@ -79097,7 +79097,7 @@ q===$&&A.a()
 q=A.apE(m,A.aoV(m,B.jS,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"Enter your password",m,m,m,m,m,m,m,m,"Password",!0,m,B.Gs,m,m,m,m,m,m,A.xc(m,m,A.lv(q?B.jj:B.ji,m,m,m),m,m,new A.Ye(l,a),m,m,m),m,m,m,m),m,!q,new A.Yf())
 n=l.a.c
 n===$&&A.a()
-return A.at_(A.hL(A.b([o,q,A.arR(B.aC,B.jn,!0,new A.Yg(l,a),B.Uo,n),A.aou(B.Ut,new A.Yh(l,a),m),A.i7(B.Um,new A.Y8(a),m),A.i7(B.Un,new A.Y9(a),m)],t.p),B.ad,B.tQ,B.bk),p)}}
+return A.at_(A.hL(A.b([o,q,A.arR(B.aC,B.jn,!0,new A.Yg(l,a),B.Up,n),A.aou(B.Ut,new A.Yh(l,a),m),A.i7(B.Um,new A.Y8(a),m),A.i7(B.Un,new A.Y9(a),m)],t.p),B.ad,B.tQ,B.bk),p)}}
 A.Yd.prototype={
 $1(a){var s
 if(a.length===0)s="Please enter an email"
@@ -79251,7 +79251,7 @@ o=p.$ti.i("ab<an.E,f>")
 o=A.KK(A.b([n,A.a_H(A.hL(A.a2(new A.ab(p,new A.Y7(l,this,a),o),!0,o.i("an.E")),B.ad,B.aQ,B.bk))],t.p),B.cm,B.aQ,B.bk,m,m)
 p=o}o=l.a.d
 o===$&&A.a()
-return A.at_(A.hL(A.b([p,A.arR(B.aC,B.jn,!0,new A.Ya(l,a),B.Up,o),A.em(A.aou(B.Uq,new A.Yb(l,a),m),m,1/0),A.i7(B.Us,new A.Yc(a),m)],t.p),B.ad,B.aQ,B.c3),r)},
+return A.at_(A.hL(A.b([p,A.arR(B.aC,B.jn,!0,new A.Ya(l,a),B.Uo,o),A.em(A.aou(B.Uq,new A.Yb(l,a),m),m,1/0),A.i7(B.Us,new A.Yc(a),m)],t.p),B.ad,B.aQ,B.c3),r)},
 CZ(a,b,c,d,e,f,g){var s=null,r=a.w.a.b.h(0,b),q=g==null?new A.Yk(c):g
 return new A.dn(B.Fp,A.apE(r,A.aoV(s,B.jS,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,d,s,s,s,s,s,s,s,s,c,!0,s,A.lv(this.a7j(b),s,s,s),s,s,s,s,s,s,f,s,s,s,s),s,e,q),s)},
 oA(a,b){var s=a.w.a.b.h(0,b).a.a
@@ -86748,8 +86748,8 @@ B.Qv=new A.l(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Ul=new A.d_(B.S8,B.Rc,B.S9,B.SI,B.QR,B.QY,B.Rw,B.Sv,B.RK,B.Td,B.Ql,B.QG,B.T9,B.Tr,B.Qv)
 B.Um=new A.fR("Register",null,null,null,null,null,null,null,null)
 B.Un=new A.fR("Forgot Password?",null,null,null,null,null,null,null,null)
-B.Uo=new A.fR("Remember me",null,null,null,null,null,null,null,null)
-B.Up=new A.fR("I have read and agree to << Terms and Services >>",null,null,null,null,null,null,null,null)
+B.Uo=new A.fR("I have read and agree to < Terms and Services >",null,null,null,null,null,null,null,null)
+B.Up=new A.fR("Remember me",null,null,null,null,null,null,null,null)
 B.TU=new A.l(!0,null,null,null,null,null,16,B.d3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Uq=new A.fR("Register",null,B.TU,null,null,null,null,null,null)
 B.Ur=new A.fR("AppBar",null,null,null,null,null,null,null,null)
