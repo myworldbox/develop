@@ -12,6 +12,10 @@
     "member_code": "member code"
   },
   "/auth/register": {},
+  "/auth/info_completion": {},
+  "/auth/verification": {},
+  "/auth/forget_password": {},
+  "/auth/reset_password": {},
   "/menu/login": {
     "welcome": "{user.name},\nWelcome!",
     "question": "Is this you?"
