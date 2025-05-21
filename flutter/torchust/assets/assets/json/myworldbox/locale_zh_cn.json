@@ -15,8 +15,9 @@
   "/auth/verification": {},
   "/auth/forget_password": {},
   "/auth/reset_password": {},
-  "/user/info_completion": {},
   "/user/setting": {},
+  "/user/update_auth": {},
+  "/user/update_user": {},
   "/menu/login": {
     "welcome": "{user.name}，\n欢迎你!",
     "question": "是你吗?"
