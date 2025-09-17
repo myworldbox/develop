@@ -1,11 +1,11 @@
 {
-    "name": "book recommendation system",
-    "short_name": "book recommendation system",
+    "name": "magic mirror",
+    "short_name": "magic mirror",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "book recommendation system.",
+    "description": "magic mirror.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
