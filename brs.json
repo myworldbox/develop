@@ -1,11 +1,11 @@
 {
-    "name": "magic mirror",
-    "short_name": "magic mirror",
+    "name": "Magic Mirror",
+    "short_name": "Magic Mirror",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "magic mirror.",
+    "description": "Magic Mirror.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
