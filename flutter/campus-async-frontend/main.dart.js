@@ -110562,7 +110562,7 @@ m.b=!0
 p=3
 i=t.N
 s=6
-return A.L(A.b2G(A.fW("http://localhost:3001/api/auth/refresh",0,null),B.bS.v6(A.X(["refreshToken",l],i,i),null),A.X(["Content-Type","application/json"],i,i)),$async$CO)
+return A.L(A.b2G(A.fW("https://campus-async-backend.vercel.app/api/auth/refresh",0,null),B.bS.v6(A.X(["refreshToken",l],i,i),null),A.X(["Content-Type","application/json"],i,i)),$async$CO)
 case 6:k=b
 if(k.b>=200&&k.b<300){i=k
 j=B.bS.r6(0,A.acS(J.Z(A.acC(i.e).c.a,"charset")).fT(0,i.w),null)
@@ -110666,18 +110666,18 @@ break}throw A.h(A.eN("Request failed: "+n))
 case 1:return A.N(q,r)}})
 return A.O($async$r8,r)}}
 A.adE.prototype={
-$0(){return A.bjL(A.fW("http://localhost:3001/api"+this.b,0,null),this.a.Wk())},
+$0(){return A.bjL(A.fW("https://campus-async-backend.vercel.app/api"+this.b,0,null),this.a.Wk())},
 $S:101}
 A.adF.prototype={
 $0(){var s=this
-return A.b2G(A.fW("http://localhost:3001/api"+s.b,0,null),B.bS.v6(s.c,null),s.a.JI(s.d))},
+return A.b2G(A.fW("https://campus-async-backend.vercel.app/api"+s.b,0,null),B.bS.v6(s.c,null),s.a.JI(s.d))},
 $S:101}
 A.adG.prototype={
 $0(){var s=this
-return A.bkC(A.fW("http://localhost:3001/api"+s.b,0,null),B.bS.v6(s.c,null),s.a.JI(s.d))},
+return A.bkC(A.fW("https://campus-async-backend.vercel.app/api"+s.b,0,null),B.bS.v6(s.c,null),s.a.JI(s.d))},
 $S:101}
 A.adD.prototype={
-$0(){return A.b2Z(A.fW("http://localhost:3001/api"+this.b,0,null),this.a.Wk())},
+$0(){return A.b2Z(A.fW("https://campus-async-backend.vercel.app/api"+this.b,0,null),this.a.Wk())},
 $S:101}
 A.r3.prototype={
 aep(){var s,r
