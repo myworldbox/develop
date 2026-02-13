@@ -68,5 +68,13 @@
   "joinUs": "If you want to participate in the activity, you can fill out the Google form below",
   "pmYou": "We will have someone pm you",
   "hopeToSeeYou": "Hope to see you in future activities",
-  "collab": "If you want to organize activities with us, you can contact us through the following ways"
+  "collab": "If you want to organize activities with us, you can contact us through the following ways",
+  "members": "Members",
+  "settlement": "Settlement",
+  "statistics": "Statistics",
+  "reply": "Reply",
+  "replies": "Replies",
+  "showReplies": "Show replies",
+  "upvote": "Upvote",
+  "downvote": "Downvote"
 }
