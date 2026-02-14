@@ -6,6 +6,16 @@
     <title>Campus Async - Flutter Web</title>
   </head>
   <body>
+    <script>
+      // Register service worker for caching API and static assets (if supported)
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/service_worker.js').catch(function(err) {
+            console.warn('SW registration failed:', err);
+          });
+        });
+      }
+    </script>
     <script src="main.dart.js"></script>
   </body>
 </html>
