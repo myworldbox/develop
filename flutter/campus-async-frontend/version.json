@@ -1,1 +1,3 @@
-{"app_name":"flutter_web_app","package_name":"flutter_web_app"}
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
