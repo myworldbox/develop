@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-B=c[42]
-var z=a.updateTypes([]);(function constants(){B.Rx=new A.dQ(null,24,null,null)})()};
-(a=>{a["JvaejNuxxjMraAW2c5afNkwXodc="]=a.current})($__dart_deferred_initializers__);
+B=c[41]
+var z=a.updateTypes([]);(function constants(){B.Ri=new A.dP(null,24,null,null)})()};
+(a=>{a["yx9tM/xpuJIPXlvEdcJUVbmRPnk="]=a.current})($__dart_deferred_initializers__);
