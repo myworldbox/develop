@@ -33076,7 +33076,7 @@ s=A.c([],t.h)
 r=$.b5V()
 if(!r.a)A.a1(new A.ZZ())
 r=r.b.h(0,"API_URL")
-r=(r==null?"http://localhost:3001":r)+"/api"
+r=(r==null?"https://campus-async-backend.vercel.app":r)+"/api"
 return new A.agO(r,new A.RR(s))},
 agO:function agO(a,b){this.a=a
 this.b=!1
