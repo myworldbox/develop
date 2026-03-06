@@ -33517,7 +33517,7 @@ aZQ:function aZQ(a){this.a=a},
 h4(){var s,r=$.b7A()
 if(!r.a)A.X(new A.a_B())
 r=r.b.h(0,"API_URL")
-r=(r==null?"http://localhost:3001":r)+"/api"
+r=(r==null?"https://campus-async-backend.vercel.app":r)+"/api"
 s=new A.ahk(r)
 r=A.b94(A.b8c(r,B.a_4,A.S(["Content-Type","application/json"],t.N,t.z),B.a_f))
 s.b=r
