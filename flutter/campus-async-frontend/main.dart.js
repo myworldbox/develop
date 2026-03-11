@@ -33520,7 +33520,7 @@ aYC:function aYC(a){this.a=a},
 h3(){var s,r=$.b6m()
 if(!r.a)A.X(new A.a_y())
 r=r.b.h(0,"API_URL")
-r=(r==null?"http://localhost:3001":r)+"/api"
+r=(r==null?"https://campus-async-backend.vercel.app":r)+"/api"
 s=new A.ahp(r)
 r=A.b7U(A.b7_(r,B.a_3,A.S(["Content-Type","application/json"],t.N,t.z),B.a_e))
 s.b=r
