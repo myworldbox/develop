@@ -33521,7 +33521,7 @@ aYA:function aYA(a){this.a=a},
 nG(){var s,r=$.b6B()
 if(!r.a)A.Y(new A.a_Z())
 r=r.b.h(0,"API_URL")
-r=(r==null?"http://localhost:3001":r)+"/api"
+r=(r==null?"https://campus-async-backend.vercel.app":r)+"/api"
 s=new A.ai0(r)
 r=A.b85(A.b7d(r,B.a_M,A.R(["Content-Type","application/json"],t.N,t.z),B.a_U))
 s.b=r
