@@ -33578,7 +33578,7 @@ aYL:function aYL(a){this.a=a},
 nH(){var s,r=$.b6M()
 if(!r.a)A.Y(new A.a0_())
 r=r.b.h(0,"BACKEND_URL")
-r=(r==null?"http://localhost:3001":r)+"/api"
+r.toString
 s=new A.ai5(r)
 r=A.b8g(A.b7o(r,B.a_z,A.R(["Content-Type","application/json"],t.N,t.z),B.a_H))
 s.b=r
