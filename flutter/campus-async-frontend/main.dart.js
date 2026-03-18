@@ -120127,7 +120127,7 @@ return B.b.gT(s).toLowerCase()},
 zW(a){var s,r,q,p,o=this
 if(!(o.gjL()==="discussion"||o.gjL()==="activity"||o.gjL()==="homework"))return!1
 s=o.ane()
-if(s==null||s.length===0)return!1
+if(s==null||s.length===0)return a==null
 if(a==null)return!0
 r=a.h(0,"role")
 q=r==null?null:J.aF(r)
